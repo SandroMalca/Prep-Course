@@ -1,0 +1,89 @@
+html{
+    background: url("https://images.hdqwalls.com/download/white-cube-pattern-4k-bu-2048x2048.jpg");
+    background-size: 100%;
+}
+.flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.titulo{
+    color: rgb(73, 73, 179);
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.desc{
+    text-align: center;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+}
+
+p.edu{
+    text-align: center;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+}
+.edu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p.exp{
+    text-align: center;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+}
+.exp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p.skill{
+    text-align: center;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+}
+.skill{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.foto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+img{
+    width: 120px;
+    height: 120px;
+}
+
+p.hobbies{
+    text-align: center;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+}
+.hobbies{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.expectativa{
+    display: flex;
+    flex-basis: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+}
